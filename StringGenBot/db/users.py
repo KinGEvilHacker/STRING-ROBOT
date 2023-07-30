@@ -1,4 +1,4 @@
-from Session_makerbot.db import db
+from String_Session_makerbot.db import db
 
 usersdb = db.users
 
