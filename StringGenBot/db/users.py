@@ -1,4 +1,4 @@
-from String_Session_makerbot.db import db
+from StringGenBot.db import db
 
 usersdb = db.users
 
