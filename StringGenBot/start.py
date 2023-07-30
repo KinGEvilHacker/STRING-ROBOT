@@ -17,7 +17,7 @@ async def start(bot: Client, msg: Message):
 𝐈 𝐀𝐦 {me2},
 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐒𝐓𝐑𝐈𝐍𝐆 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 𝐁𝐎𝐓.
 𝐅𝐔𝐋𝐋𝐘 𝐒𝐀𝐅𝐄 & 𝐒𝐄𝐂𝐔𝐑𝐄.
-𝐍𝐎 𝐀𝐌𝐘 𝐄𝐑𝐑𝐎𝐑.
+𝐍𝐎 𝐀N𝐘 𝐄𝐑𝐑𝐎𝐑.
 
 𝐌𝐚𝐝𝐞 𝐁𝐲  : [ERROR 404](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
